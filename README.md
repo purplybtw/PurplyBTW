@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PurplyBTW
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: purplybtw.main@gmail.com
