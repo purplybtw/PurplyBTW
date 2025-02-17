@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @PurplyBTW
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: purplybtw.main@gmail.com
+- 👋 Hi, I’m @PurplyBTW - a 15 year old full-stack developer from Uruguay
+- 👀 I’m mainly interested in web development and
+- 🧩 JavaScript, TypeScript, Next.js, Node.js, React, HTML/CSS 
+- ✨ Working on Purply.GG - personal web app project
+- 🌱 I’m currently learning Next.js and React
+- 📫 How to reach me: purplybtw on Discord / purplybtw.main@gmail.com
