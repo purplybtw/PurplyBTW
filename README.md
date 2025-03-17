@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PurplyBTW - a 15 year old full-stack developer from Uruguay
-- 👀 I’m mainly interested in web development and
+- 👀 I’m mainly interested in web development.
 - 🧩 JavaScript, TypeScript, Next.js, Node.js, React, HTML/CSS 
 - ✨ Working on Purply.GG - personal web app project
 - 🌱 I’m currently learning Next.js and React
