@@ -1,6 +1,6 @@
-- 👋 Hi, I’m purplybtw - an aspiring full-stack developer.
+- 👋 Hi, I’m purplybtw - a solo full-stack developer.
 - 👀 I’m mainly interested in web development.
-- 🧩 TypeScript/Next.js/React. 
-- ✨ Working on Pixflow - personal web app project
+- 🧩 TypeScript/Next.js/React/PostgreSQL.
+- ✨ Working on Pixflow - personal web app project.
 - 🌱 I’m currently learning Next.js/React, Go and C++.
 - 📫 How to reach me: purplybtw on Discord / purplybtw.main@gmail.com
